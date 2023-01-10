@@ -1,4 +1,4 @@
-FROM alpine:3.10.3
+FROM alpine:3.17.1
 MAINTAINER Ryan Schlesinger <ryan@outstand.com>
 
 # USAGE
