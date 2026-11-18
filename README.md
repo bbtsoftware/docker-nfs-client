@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer actively maintained.
+> No further updates or support are planned.
+
 # docker-nfs-client
 
 Docker image for a light NFS client (~14.5MB). By default NFS 4 is used.
